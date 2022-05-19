@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kmy9565/kmy9565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
