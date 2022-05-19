@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ABOUT ME
+
+### Undergraduate Student at Seoul National University (Majoring in Physics & AI)
+
+
+-------------
+### Interest
+
+* Machine Learning Theory
+* Machine Listening
+* Quantum Computer & Qubit Control
+* Quantum Machine Learning
