@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 * Machine Learning Theory
 * Machine Listening
 * Quantum Computer & Qubit Control
-* Quantum Machine Learning
+* Quantum Information Theory
